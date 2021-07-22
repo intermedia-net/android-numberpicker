@@ -68,6 +68,7 @@ afterEvaluate {
                     username = publishUser
                     password = publishPass
                 }
+                isAllowInsecureProtocol = true
             }
         }
     }
